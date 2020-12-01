@@ -1,0 +1,13 @@
+.vscode/
+.DS_Store
+.ipynb_checkpoints/
+pipeline/outputs/*
+mtl_pipeline/outputs/*
+
+.idea/
+
+.idea
+pipeline/__pycache__/
+*.pyc
+pipeline/UTILS/__pycache__/
+*__pycache__/

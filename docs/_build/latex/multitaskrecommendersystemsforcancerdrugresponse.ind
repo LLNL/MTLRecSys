@@ -1,0 +1,90 @@
+\begin{sphinxtheindex}
+\let\lettergroup\sphinxstyleindexlettergroup
+\let\lettergroupDefault\sphinxstyleindexlettergroupDefault
+\let\spxpagem\sphinxstyleindexpagemain
+\let\spxentry\sphinxstyleindexentry
+\let\spxextra\sphinxstyleindexextra
+
+
+  \lettergroup{B}
+  \item \spxentry{BaseEstimator}\spxextra{class in methods.base}, \hyperpage{7}
+  \item \spxentry{BaseMTLEstimator}\spxextra{class in methods.base}, \hyperpage{7}
+
+  \indexspace
+
+  \lettergroup{C}
+  \item \spxentry{create\_x\_and\_y()}\spxextra{SyntheticDataCreator method}, \hyperpage{6}
+
+  \indexspace
+
+  \lettergroup{D}
+  \item \spxentry{datasets.SyntheticData}
+    \subitem \spxentry{module}, \hyperpage{5}
+
+  \indexspace
+
+  \lettergroup{E}
+  \item \spxentry{evaluate()}\spxextra{BaseEstimator method}, \hyperpage{7}
+  \item \spxentry{ExactGPCompositeKernelRegression}\spxextra{class in methods.regressor.ExactGPCompositeKernel}, \hyperpage{15}
+  \item \spxentry{ExactGPRegression}\spxextra{class in methods.regressor.ExactGP}, \hyperpage{15}
+
+  \indexspace
+
+  \lettergroup{F}
+  \item \spxentry{fit()}\spxextra{BaseEstimator method}, \hyperpage{7}
+  \item \spxentry{fit()}\spxextra{BaseMTLEstimator method}, \hyperpage{7}
+  \item \spxentry{forward()}\spxextra{NN method}, \hyperpage{10}
+
+  \indexspace
+
+  \lettergroup{G}
+  \item \spxentry{generateCosSynthData()}\spxextra{SyntheticDataCreator method}, \hyperpage{6}
+  \item \spxentry{generateSynthData()}\spxextra{SyntheticDataCreator method}, \hyperpage{6}
+  \item \spxentry{GPyFullMTL}\spxextra{class in methods.mtl.MTL\_GP}, \hyperpage{17}
+
+  \indexspace
+
+  \lettergroup{H}
+  \item \spxentry{HadamardMTL}\spxextra{class in methods.mtl.MTL\_GP}, \hyperpage{17}
+
+  \indexspace
+
+  \lettergroup{K}
+  \item \spxentry{KNN\_Basic}\spxextra{class in methods.knn.KNN}, \hyperpage{9}
+
+  \indexspace
+
+  \lettergroup{M}
+  \item \spxentry{module}
+    \subitem \spxentry{datasets.SyntheticData}, \hyperpage{5}
+
+  \indexspace
+
+  \lettergroup{N}
+  \item \spxentry{Neural\_Collaborative\_Filtering}\spxextra{class in methods.matrix\_factorization.CustomInputNCF}, \hyperpage{12}
+  \item \spxentry{Neural\_Collaborative\_Filtering\_Features}\spxextra{class in methods.matrix\_factorization.FeaturizedNCF}, \hyperpage{11}
+  \item \spxentry{Neural\_Collaborative\_Filtering\_FeaturesMTLMF}\spxextra{class in methods.mtl.NCF\_MTL}, \hyperpage{13}
+  \item \spxentry{Neural\_Collaborative\_Filtering\_FeaturesMTLMLP}\spxextra{class in methods.mtl.NCF\_MTL}, \hyperpage{12}
+  \item \spxentry{NN}\spxextra{class in methods.regressor.FFNN}, \hyperpage{9}
+  \item \spxentry{NonNegative\_MF}\spxextra{class in methods.matrix\_factorization.MF}, \hyperpage{9}
+
+  \indexspace
+
+  \lettergroup{P}
+  \item \spxentry{predict()}\spxextra{BaseEstimator method}, \hyperpage{7}
+  \item \spxentry{predict()}\spxextra{BaseMTLEstimator method}, \hyperpage{7}
+  \item \spxentry{prepare\_data()}\spxextra{SyntheticDataCreator method}, \hyperpage{6}
+
+  \indexspace
+
+  \lettergroup{S}
+  \item \spxentry{set\_output\_directory()}\spxextra{BaseEstimator method}, \hyperpage{7}
+  \item \spxentry{set\_params()}\spxextra{BaseEstimator method}, \hyperpage{7}
+  \item \spxentry{set\_test\_split()}\spxextra{SyntheticDataCreator method}, \hyperpage{6}
+  \item \spxentry{shuffle\_and\_split()}\spxextra{SyntheticDataCreator method}, \hyperpage{6}
+  \item \spxentry{SparseGPCompositeKernelRegression}\spxextra{class in methods.regressor.SparseGPCompositeKernel}, \hyperpage{16}
+  \item \spxentry{SparseGPRegression}\spxextra{class in methods.regressor.SparseGP}, \hyperpage{16}
+  \item \spxentry{SVD\_MF}\spxextra{class in methods.matrix\_factorization.MF}, \hyperpage{9}
+  \item \spxentry{SyntheticDataCreator}\spxextra{class in datasets.SyntheticData}, \hyperpage{5}
+
+\end{sphinxtheindex}

@@ -1,0 +1,33 @@
+\indexentry{module@\spxentry{module}!datasets.SyntheticData@\spxentry{datasets.SyntheticData}}{5}
+\indexentry{datasets.SyntheticData@\spxentry{datasets.SyntheticData}!module@\spxentry{module}}{5}
+\indexentry{SyntheticDataCreator (class in datasets.SyntheticData)@\spxentry{SyntheticDataCreator}\spxextra{class in datasets.SyntheticData}}{5}
+\indexentry{create\_x\_and\_y() (SyntheticDataCreator method)@\spxentry{create\_x\_and\_y()}\spxextra{SyntheticDataCreator method}}{6}
+\indexentry{generateCosSynthData() (SyntheticDataCreator method)@\spxentry{generateCosSynthData()}\spxextra{SyntheticDataCreator method}}{6}
+\indexentry{generateSynthData() (SyntheticDataCreator method)@\spxentry{generateSynthData()}\spxextra{SyntheticDataCreator method}}{6}
+\indexentry{prepare\_data() (SyntheticDataCreator method)@\spxentry{prepare\_data()}\spxextra{SyntheticDataCreator method}}{6}
+\indexentry{set\_test\_split() (SyntheticDataCreator method)@\spxentry{set\_test\_split()}\spxextra{SyntheticDataCreator method}}{6}
+\indexentry{shuffle\_and\_split() (SyntheticDataCreator method)@\spxentry{shuffle\_and\_split()}\spxextra{SyntheticDataCreator method}}{6}
+\indexentry{BaseEstimator (class in methods.base)@\spxentry{BaseEstimator}\spxextra{class in methods.base}}{7}
+\indexentry{evaluate() (BaseEstimator method)@\spxentry{evaluate()}\spxextra{BaseEstimator method}}{7}
+\indexentry{fit() (BaseEstimator method)@\spxentry{fit()}\spxextra{BaseEstimator method}}{7}
+\indexentry{predict() (BaseEstimator method)@\spxentry{predict()}\spxextra{BaseEstimator method}}{7}
+\indexentry{set\_output\_directory() (BaseEstimator method)@\spxentry{set\_output\_directory()}\spxextra{BaseEstimator method}}{7}
+\indexentry{set\_params() (BaseEstimator method)@\spxentry{set\_params()}\spxextra{BaseEstimator method}}{7}
+\indexentry{BaseMTLEstimator (class in methods.base)@\spxentry{BaseMTLEstimator}\spxextra{class in methods.base}}{7}
+\indexentry{fit() (BaseMTLEstimator method)@\spxentry{fit()}\spxextra{BaseMTLEstimator method}}{7}
+\indexentry{predict() (BaseMTLEstimator method)@\spxentry{predict()}\spxextra{BaseMTLEstimator method}}{7}
+\indexentry{SVD\_MF (class in methods.matrix\_factorization.MF)@\spxentry{SVD\_MF}\spxextra{class in methods.matrix\_factorization.MF}}{9}
+\indexentry{NonNegative\_MF (class in methods.matrix\_factorization.MF)@\spxentry{NonNegative\_MF}\spxextra{class in methods.matrix\_factorization.MF}}{9}
+\indexentry{KNN\_Basic (class in methods.knn.KNN)@\spxentry{KNN\_Basic}\spxextra{class in methods.knn.KNN}}{9}
+\indexentry{NN (class in methods.regressor.FFNN)@\spxentry{NN}\spxextra{class in methods.regressor.FFNN}}{9}
+\indexentry{forward() (NN method)@\spxentry{forward()}\spxextra{NN method}}{10}
+\indexentry{Neural\_Collaborative\_Filtering\_Features (class in methods.matrix\_factorization.FeaturizedNCF)@\spxentry{Neural\_Collaborative\_Filtering\_Features}\spxextra{class in methods.matrix\_factorization.FeaturizedNCF}}{11}
+\indexentry{Neural\_Collaborative\_Filtering (class in methods.matrix\_factorization.CustomInputNCF)@\spxentry{Neural\_Collaborative\_Filtering}\spxextra{class in methods.matrix\_factorization.CustomInputNCF}}{12}
+\indexentry{Neural\_Collaborative\_Filtering\_FeaturesMTLMLP (class in methods.mtl.NCF\_MTL)@\spxentry{Neural\_Collaborative\_Filtering\_FeaturesMTLMLP}\spxextra{class in methods.mtl.NCF\_MTL}}{12}
+\indexentry{Neural\_Collaborative\_Filtering\_FeaturesMTLMF (class in methods.mtl.NCF\_MTL)@\spxentry{Neural\_Collaborative\_Filtering\_FeaturesMTLMF}\spxextra{class in methods.mtl.NCF\_MTL}}{13}
+\indexentry{ExactGPRegression (class in methods.regressor.ExactGP)@\spxentry{ExactGPRegression}\spxextra{class in methods.regressor.ExactGP}}{15}
+\indexentry{ExactGPCompositeKernelRegression (class in methods.regressor.ExactGPCompositeKernel)@\spxentry{ExactGPCompositeKernelRegression}\spxextra{class in methods.regressor.ExactGPCompositeKernel}}{15}
+\indexentry{SparseGPRegression (class in methods.regressor.SparseGP)@\spxentry{SparseGPRegression}\spxextra{class in methods.regressor.SparseGP}}{16}
+\indexentry{SparseGPCompositeKernelRegression (class in methods.regressor.SparseGPCompositeKernel)@\spxentry{SparseGPCompositeKernelRegression}\spxextra{class in methods.regressor.SparseGPCompositeKernel}}{16}
+\indexentry{HadamardMTL (class in methods.mtl.MTL\_GP)@\spxentry{HadamardMTL}\spxextra{class in methods.mtl.MTL\_GP}}{17}
+\indexentry{GPyFullMTL (class in methods.mtl.MTL\_GP)@\spxentry{GPyFullMTL}\spxextra{class in methods.mtl.MTL\_GP}}{17}
